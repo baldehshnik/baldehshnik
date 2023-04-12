@@ -7,9 +7,9 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vl-shcherba/)
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NKSnap&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baldehshnik&theme=dark)](https://git.io/streak-stats)
 
 
 
 ### 🏆 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKSnap&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldehshnik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
